@@ -152,7 +152,7 @@ body::before {
     width: -ms-webkit-fill-available;
     width: -o-webkit-fill-available;
   }
-
+  
   .nav__dot {
     display: inline-block;
     opacity: 0.5;
